@@ -2,8 +2,6 @@
 
 개발동생이 실제 작업 흐름에서 사용하는 AI agent skills 공유 저장소입니다.
 
-첫 공개 스킬은 `deep-interview`입니다. 앞으로 다른 스킬도 하나씩 추가할 예정입니다.
-
 ## Quickstart
 
 가장 쉬운 설치 방법은 `skills` CLI를 사용하는 것입니다.
