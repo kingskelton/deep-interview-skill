@@ -1,7 +1,7 @@
 {
   "name": "devbrother-skills",
   "interface": {
-    "displayName": "DevBrother Skills"
+    "displayName": "개발동생 Skills"
   },
   "plugins": [
     {

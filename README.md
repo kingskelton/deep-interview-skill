@@ -1,4 +1,4 @@
-# DevBrother Skills
+# 개발동생 Skills
 
 개발동생이 실제 작업 흐름에서 사용하는 AI agent skills 공유 저장소입니다.
 
@@ -33,7 +33,7 @@ Codex에서는 이 저장소를 plugin marketplace로 추가한 뒤, Codex의 pl
 codex plugin marketplace add devbrother2024/skills
 ```
 
-그다음 Codex를 열고 `/plugins`를 실행한 뒤 `DevBrother Skills` marketplace에서 `DevBrother Skills` plugin을 설치하세요.
+그다음 Codex를 열고 `/plugins`를 실행한 뒤 `개발동생 Skills` marketplace에서 `개발동생 Skills` plugin을 설치하세요.
 
 ```bash
 codex
