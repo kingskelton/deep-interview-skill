@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "DevBrother Skills",
     "shortDescription": "Interview-first skills for clearer AI agent work.",
-    "longDescription": "A small collection of DevBrother agent skills. The first skill, deep-interview, makes the agent clarify goals, scope, constraints, and done criteria before planning or implementation.",
+    "longDescription": "A small collection of DevBrother agent skills. deep-interview makes the agent clarify goals, scope, constraints, and done criteria before planning or implementation.",
     "developerName": "DevBrother",
     "category": "Productivity",
     "capabilities": [
