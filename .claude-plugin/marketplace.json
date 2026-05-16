@@ -1,12 +1,12 @@
 {
-  "name": "kingskelton-deep-interview-skill",
+  "name": "kingskelton-deep-question-skill",
   "owner": {
     "name": "kingskelton"
   },
   "description": "Deep interview skills collection",
   "plugins": [
     {
-      "name": "deep-interview",
+      "name": "deep-question",
       "source": "./",
       "description": "Deep interview skill"
     }
