@@ -1,5 +1,8 @@
 {
   "name": "kingskelton-deep-interview-skill",
+  "owner": {
+    "name": "kingskelton"
+  },
   "description": "Deep interview skills collection",
   "plugins": [
     {
