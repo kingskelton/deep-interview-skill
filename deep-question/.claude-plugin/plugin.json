@@ -1,0 +1,6 @@
+{
+  "name": "deep-question",
+  "version": "1.0.0",
+  "description": "소크라테스식 요구사항 정리",
+  "skills": "./skills"
+}
