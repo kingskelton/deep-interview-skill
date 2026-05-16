@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778949528070,
+  "projectRoot": "/home/hyunmin/deep-interview-skill",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "deep-question": {
+      "path": "deep-question",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1778949528063,
+      "keyFiles": [
+        "SKILL.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "accessCount": 1,
+      "lastAccessed": 1778949603342,
+      "type": "file"
+    },
+    {
+      "path": "deep-question/SKILL.md",
+      "accessCount": 1,
+      "lastAccessed": 1778949706035,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

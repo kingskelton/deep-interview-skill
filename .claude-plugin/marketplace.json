@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "deep-question",
-      "source": "./",
+      "source": "./deep-question",
       "description": "Deep interview skill"
     }
   ]
