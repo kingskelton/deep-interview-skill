@@ -1,0 +1,11 @@
+{
+  "name": "kingskelton-deep-interview-skill",
+  "description": "Deep interview skills collection",
+  "plugins": [
+    {
+      "name": "deep-interview",
+      "source": "./",
+      "description": "Deep interview skill"
+    }
+  ]
+}
